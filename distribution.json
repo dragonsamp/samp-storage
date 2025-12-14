@@ -1,0 +1,107 @@
+{
+  "version": "1.0.0",
+  "mods": [
+    {
+      "name": "Normal Mod",
+      "baseUrl": "https://dragonsamp.github.io/samp-storage/cache/normal/",
+      "files": [
+        {
+          "name": "gta_sa.set",
+          "path": "Android/data/com.touch.mobile.dark/files/",
+          "size": 0
+        },
+        {
+          "name": "stream.ini",
+          "path": "Android/data/com.touch.mobile.dark/files/",
+          "size": 0
+        },
+        {
+          "name": "anim",
+          "path": "Android/data/com.touch.mobile.dark/files/anim/",
+          "size": 0
+        },
+        {
+          "name": "audio",
+          "path": "Android/data/com.touch.mobile.dark/files/audio/",
+          "size": 0
+        },
+        {
+          "name": "data",
+          "path": "Android/data/com.touch.mobile.dark/files/data/",
+          "size": 0
+        },
+        {
+          "name": "fonts",
+          "path": "Android/data/com.touch.mobile.dark/files/fonts/",
+          "size": 0
+        },
+        {
+          "name": "models",
+          "path": "Android/data/com.touch.mobile.dark/files/models/",
+          "size": 0
+        },
+        {
+          "name": "SAMP",
+          "path": "Android/data/com.touch.mobile.dark/files/SAMP/",
+          "size": 0
+        },
+        {
+          "name": "texdb",
+          "path": "Android/data/com.touch.mobile.dark/files/texdb/",
+          "size": 0
+        }
+      ]
+    },
+    {
+      "name": "Snow Mod",
+      "baseUrl": "https://dragonsamp.github.io/samp-storage/cache/snow/",
+      "files": [
+        {
+          "name": "gta_sa.set",
+          "path": "Android/data/com.touch.mobile.dark/files/",
+          "size": 0
+        },
+        {
+          "name": "stream.ini",
+          "path": "Android/data/com.touch.mobile.dark/files/",
+          "size": 0
+        },
+        {
+          "name": "anim",
+          "path": "Android/data/com.touch.mobile.dark/files/anim/",
+          "size": 0
+        },
+        {
+          "name": "audio",
+          "path": "Android/data/com.touch.mobile.dark/files/audio/",
+          "size": 0
+        },
+        {
+          "name": "data",
+          "path": "Android/data/com.touch.mobile.dark/files/data/",
+          "size": 0
+        },
+        {
+          "name": "fonts",
+          "path": "Android/data/com.touch.mobile.dark/files/fonts/",
+          "size": 0
+        },
+        {
+          "name": "models",
+          "path": "Android/data/com.touch.mobile.dark/files/models/",
+          "size": 0
+        },
+        {
+          "name": "SAMP",
+          "path": "Android/data/com.touch.mobile.dark/files/SAMP/",
+          "size": 0
+        },
+        {
+          "name": "texdb",
+          "path": "Android/data/com.touch.mobile.dark/files/texdb/",
+          "size": 0
+        }
+      ]
+    }
+  ]
+}

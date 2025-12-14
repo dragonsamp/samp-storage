@@ -3,7 +3,7 @@
   "mods": [
     {
       "name": "Normal Mod",
-      "baseUrl": "https://dragonsamp.github.io/samp-storage/cache/normal/",
+      "baseUrl": "https://dragonsamp.github.io/samp-storage/cache/",
       "files": [
         {
           "name": "gta_sa.set",
@@ -54,7 +54,7 @@
     },
     {
       "name": "Snow Mod",
-      "baseUrl": "https://dragonsamp.github.io/samp-storage/cache/snow/",
+      "baseUrl": "https://dragonsamp.github.io/samp-storage/cache/",
       "files": [
         {
           "name": "gta_sa.set",

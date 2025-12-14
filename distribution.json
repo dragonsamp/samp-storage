@@ -6,7 +6,7 @@
       "baseUrl": "https://dragonsamp.github.io/samp-storage/cache/",
       "files": [
         {
-          "name": "gta_sa.set",
+          "name": "gtasatelem.set",
           "path": "Android/data/com.touch.mobile.dark/files/",
           "size": 0
         },
@@ -105,3 +105,4 @@
     }
   ]
 }
+

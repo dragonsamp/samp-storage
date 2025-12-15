@@ -1,11 +1,8 @@
 {
-  "cache": {
-    "name": "Normal Mode",
-    "url": "https://drive.google.com/drive/folders/1Tk6Uhtf96_z_MwqyvJts7CXNxCr14AT3"
-  },
-  "cache_snow": {
-    "name": "Snow Mode",
-    "url": "https://drive.google.com/drive/folders/1Tk6Uhtf96_z_MwqyvJts7CXNxCr14AT3"
-  }
+  "normal": "https://www.dropbox.com/scl/fi/ooumt079e328sc9rgrpyf/game.zip?rlkey=fd5dz1xd8y02wxdk96lfp3565&st=a3vlow9n&raw=1",
+  "snow": "https://www.dropbox.com/scl/fi/ooumt079e328sc9rgrpyf/game.zip?rlkey=fd5dz1xd8y02wxdk96lfp3565&st=a3vlow9n&raw=1",
+  "update_version": "1.0.0"
 }
+
+
 

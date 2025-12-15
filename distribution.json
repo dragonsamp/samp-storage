@@ -1,31 +1,10 @@
 {
-  "version": "1.0.0",
-  "mods": [
-    {
-      "name": "Normal Mod",
-      "description": "Download normal game files",
-      "files": [
-        {
-          "name": "game.zip",
-          "url": "https://dl.dropboxusercontent.com/scl/fi/1fcn2k18wg3jgya04hzjz/game.zip?rlkey=ddhjdtvzg9tkqfg2meh89xyw9",
-          "path": "Android/data/com.touch.mobile.dark/files/",
-          "size": 0,
-          "unzip": true
-        }
-      ]
-    },
-    {
-      "name": "Snow Mod",
-      "description": "Download snow game files",
-      "files": [
-        {
-          "name": "game.zip",
-          "url": "https://dl.dropboxusercontent.com/scl/fi/1fcn2k18wg3jgya04hzjz/game.zip?rlkey=ddhjdtvzg9tkqfg2meh89xyw9",
-          "path": "Android/data/com.touch.mobile.dark/files/",
-          "size": 0,
-          "unzip": true
-        }
-      ]
-    }
-  ]
+  "cache": {
+    "name": "Normal Mode",
+    "url": "https://dl.dropboxusercontent.com/scl/fi/1fcn2k18wg3jgya04hzjz/game.zip?rlkey=ddhjdtvzg9tkqfg2meh89xyw9"
+  },
+  "cache_snow": {
+    "name": "Snow Mode",
+    "url": "https://dl.dropboxusercontent.com/scl/fi/1fcn2k18wg3jgya04hzjz/game.zip?rlkey=ddhjdtvzg9tkqfg2meh89xyw9"
+  }
 }

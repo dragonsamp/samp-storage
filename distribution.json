@@ -1,8 +1,8 @@
 {
-  "normal": "https://www.dropbox.com/scl/fi/ooumt079e328sc9rgrpyf/game.zip?rlkey=fd5dz1xd8y02wxdk96lfp3565&st=a3vlow9n&raw=1",
-  "snow": "https://www.dropbox.com/scl/fi/ooumt079e328sc9rgrpyf/game.zip?rlkey=fd5dz1xd8y02wxdk96lfp3565&st=a3vlow9n&raw=1",
-  "update_version": "1.0.0"
+  "cache": {
+    "cache": "https://www.dropbox.com/scl/fi/r6cclofq5g0jwtz8q6j78/cache.zip?rlkey=8kypu6q72tig36cytk69vfvu5&st=dcsmrzyb&dl=1"
+  },
+  "cache_snow": {
+    "cache": "https://www.dropbox.com/scl/fi/xvekwcl8wi0osmr5bh8xa/cache_snow.zip?rlkey=2t6slbq5qzyg179fswynbzr4c&st=p11dj4gm&dl=1"
+  }
 }
-
-
-
